@@ -6,4 +6,4 @@ Simple 2D/3D objects created using the animation software Blender, based on the 
 
 Simple 3D well based on the youtube tutorial https://www.youtube.com/watch?v=OlnkGCdtGEw.
 
-![alt text](https://github.com/pilgri-m/BlenderProjects/blob/master/Lib/Rend/well.png?raw=true)
+![alt text](https://github.com/pilgri-m/BlenderProjects/blob/dev/Lib/Rend/well.png?raw=true)
